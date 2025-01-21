@@ -1,0 +1,14 @@
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.exe
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.deps.json
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.dll
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.pdb
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.dll
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\obj\Debug\net8.0\refint\JokenPo.dll
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.pdb
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.genruntimeconfig.cache
+C:\Users\DESKTOP\Desktop\desktop\Projetos\projetos .net\JokenPo\JokenPo\obj\Debug\net8.0\ref\JokenPo.dll
